@@ -2,12 +2,16 @@
 EVR@ XSens Expressive Motion (XEM) dataset
 
 This dataset is a dataset for detecting emotions from body movements while performing a certain action.
-This dataset consists of movements linked with 5 actions called 1: dancing, 2: moving, 3: waving hands, 4: stopping, and 5: pointing.
+
+This dataset consists of movements linked with 5 actions called:
+1: dancing, 2: moving, 3: waving hands, 4: stopping, and 5: pointing.
+
 Each gesture is performed with 4 different emotions:
 1: Anger.
 2: Neutrality.
 3: Happiness.
 4: Sadness.
+
 Ten participants, Masters and PhD students from University of Evry Val d'Essonne, participated in this dataset.
 Each student is asked to repeat each movement 5 times. 
 This means that there are 100 = 5(steps of the motion)*4(basic emotion)*5(repetition) videos for each participant.
